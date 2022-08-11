@@ -19,7 +19,7 @@
 - `pip install requests`
 - `pip install mechanize`
 - `pip install bs4`
-- `rm -rf Brutefb2`
+- `rm -rf CRACK-FB`
 - `git clone https://github.com/Yusep-XD/CRACK-FB`
 - `cd CRACK-FB`
 - `python yusep.py`
